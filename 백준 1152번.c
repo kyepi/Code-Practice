@@ -20,7 +20,7 @@ int main()
 	if (str[0] == ' ')
 		count = count - 1;
 	if (str[strlen(str)-1] == ' ')
-		count = count - 1;`
+		count = count - 1;
 	printf("%d", count);
 
 }
